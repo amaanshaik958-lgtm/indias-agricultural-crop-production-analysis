@@ -113,10 +113,3 @@ The dashboard includes:
 ## team members
 - sindhu dubaguntla
 - shaik mohammed amaan
-
-
----
-
-## 📄 License
-
-This project is developed for educational and academic purposes.
