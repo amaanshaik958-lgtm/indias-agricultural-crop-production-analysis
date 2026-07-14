@@ -103,7 +103,10 @@ The dashboard includes:
 
 ## 📷 Screenshots
 
-(Add your dashboard screenshots here.)
+<img width="1280" height="960" alt="photo_2026-07-11_15-59-23" src="https://github.com/user-attachments/assets/24d3cf80-d463-431e-96a7-7dc57c9ad072" />
+<img width="1280" height="674" alt="crop" src="https://github.com/user-attachments/assets/a1f94841-cd86-4946-ab58-6c86ffed396c" />
+
+
 
 ---
 
