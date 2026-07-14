@@ -110,10 +110,9 @@ The dashboard includes:
 
 ---
 
-## 👩‍💻 Author
-
-**Sindhu Dubaguntla**
-**shaik Mohammed Amaan**
+## team members**
+sindhu dubaguntla
+shaik mohammed amaan
 
 
 ---
