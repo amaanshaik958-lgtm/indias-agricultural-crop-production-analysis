@@ -1,0 +1,6 @@
+--- Contact Form Submission ---
+Name: Test User
+Email: test@example.com
+Subject: Flask Form Submission Test
+Message: Hello from the browser subagent! This is a test of the Flask backend form handler.
+
