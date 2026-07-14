@@ -110,9 +110,9 @@ The dashboard includes:
 
 ---
 
-## team members**
-sindhu dubaguntla
-shaik mohammed amaan
+## team members
+- sindhu dubaguntla
+- shaik mohammed amaan
 
 
 ---
