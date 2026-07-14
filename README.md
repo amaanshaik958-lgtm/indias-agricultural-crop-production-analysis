@@ -110,10 +110,8 @@ The dashboard includes:
 ## 👩‍💻 Author
 
 **Sindhu Dubaguntla**
+**shaik Mohammed Amaan**
 
-B.Tech (CSE - Data Science)
-
-Aditya College of Engineering and Technology
 
 ---
 
